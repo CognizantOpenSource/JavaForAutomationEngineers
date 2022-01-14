@@ -140,7 +140,8 @@ This is the fourth homework for the Java for Automation Engineers Class
 This is a MP3 Player console application that allows the user to play songs and playlist.
 
 ### Homework 4 checklist:
-    SongDatabase.java
+
+SongDatabase.java
 - [ ] Complete the 'addSong' method
 - [ ] Throw an IllegalArgumentException when a playlist of the given name already exists in the 'createPlaylist' method
 - [ ] Complete the 'getPlaylist' method
