@@ -1,8 +1,14 @@
 # JavaForAutomationEngineers
 Training content for the "Java for automation engineers" course
 
-## How to start
-Fork this repository (https://github.com/CognizantOpenSource/JavaForAutomationEngineers) to your own github to begin working.
+## How it works
+- Join the training quest in Game of Pods.
+- Watch the associated training videos.
+- Fork this repository (https://github.com/CognizantOpenSource/JavaForAutomationEngineers) to your own github to begin working.
+- Do homework 1-5, check off the completed tasks and answer the questions in your forked repository.
+- Give your quest lead access and/or a link to your repository.
+- Get training credit.
+
 
 # Session Homework
 [Homework 1](#Homework_1)  
