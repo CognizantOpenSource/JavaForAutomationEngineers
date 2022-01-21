@@ -2,6 +2,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 refreshenv
 choco install openjdk11 -y
 choco install vscode -y
+choco install maven -y
 choco install gradle -y
 refreshenv
 code --install-extension redhat.java
